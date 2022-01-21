@@ -1,7 +1,7 @@
 # HDAR
 ## HDAR Abstract
 
-HDAR is a database used to record USF Health's expense and budget tracking allocated by the department. It would track how much a particular member/team would spend, the funding received and the kind of expenses. The project failed as the client did not fully understand their own underlying expense tracking, which made this 4 month project ultimately fail due to unending scope. 
+HDAR is a database used to record USF Health's expense/budget tracking allocated by the department. It would track how much a particular member/team would spend, the funding received and the kind of expenses. The client did not fully understand their own underlying expense tracking, which made this 4 month project ultimately fail due to unending scope. 
 
 ## Original Budget Tracker
 This folder contains the original trackers used to create the relational structure. The client used all three worksheets to track the team's budget. The team had gone through the motions as to figure out ways to combine the worksheets into one, but ultimately decided to build in Microsoft Access to house both a simple frontend/ backend database with easy deployability; due to the small dataset. 
